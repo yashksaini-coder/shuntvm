@@ -1,6 +1,8 @@
-[package]
-name = "rpn"
+[package][package]
+name = "shuntvm"
 version = "0.1.0"
-edition = "2024"
-
-[dependencies]
+edition = "2021"
+description = "A zero-panic Shunting-Yard expression compiler and RPN stack virtual machine."
+license = "MIT OR Apache-2.0"
+keywords = ["shunting-yard", "rpn", "stack-vm", "parser", "calculator"]
+categories = ["command-line-utilities", "compilers", "mathematics", "parsing"]
