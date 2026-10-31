@@ -71,6 +71,9 @@ Operators are listed from highest to lowest precedence:
 
 ### Interactive REPL CLI
 
+<!--
+
+
 Clone the repository and launch the interactive virtual machine shell:
 
 ```bash
@@ -78,6 +81,7 @@ git clone [https://github.com/yashksaini-coder/shuntvm.git](https://github.com/y
 cd shuntvm
 cargo run --release
 ```
+-->
 
 Example session:
 
